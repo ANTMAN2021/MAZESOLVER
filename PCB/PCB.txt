@@ -1,0 +1,1 @@
+PCB mounting stm 32 blue pill and 2 l293d motor drivers. later the headers of stm32 were used with arduino uno with male to male jumpers.
